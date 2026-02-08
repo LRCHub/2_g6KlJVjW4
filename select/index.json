@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Potion",
+  "base_artist": "INI",
+  "createdAt": "2026-02-08T15:00:12.786633Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Potion",
+      "artist": "Ludacris",
+      "has_synced": true,
+      "path": "select/01_The_Potion_Ludacris.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Magic Potion",
+      "artist": "Open Mind",
+      "has_synced": true,
+      "path": "select/02_Magic_Potion_Open_Mind.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Potion Approaching",
+      "artist": "Arctic Monkeys",
+      "has_synced": true,
+      "path": "select/03_Potion_Approaching_Arctic_Monkeys.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Potion Approaching",
+      "artist": "Arctic Monkeys",
+      "has_synced": true,
+      "path": "select/04_Potion_Approaching_Arctic_Monkeys.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Love Potion No. 9",
+      "artist": "The Searchers",
+      "has_synced": false,
+      "path": "select/05_Love_Potion_No._9_The_Searchers.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "One More Magic Potion",
+      "artist": "Ensiferum",
+      "has_synced": false,
+      "path": "select/06_One_More_Magic_Potion_Ensiferum.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Potion (with Dua Lipa & Young Thug)",
+      "artist": "Calvin Harris feat. Dua Lipa & Young Thug",
+      "has_synced": true,
+      "path": "select/07_Potion_(with_Dua_Lipa_&_Young_Thug)_Calvin_Harris_feat._Dua_Lipa_&_Young_Thug.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Potion (with Dua Lipa & Young Thug)",
+      "artist": "Calvin Harris, Dua Lipa, Young Thug",
+      "has_synced": true,
+      "path": "select/08_Potion_(with_Dua_Lipa_&_Young_Thug)_Calvin_Harris,_Dua_Lipa,_Young_Thug.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Love Potion No. 9",
+      "artist": "Tygers of Pan Tang",
+      "has_synced": false,
+      "path": "select/09_Love_Potion_No._9_Tygers_of_Pan_Tang.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Love Potion #9",
+      "artist": "The White Stripes",
+      "has_synced": false,
+      "path": "select/10_Love_Potion__9_The_White_Stripes.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Love Potion No. 9 (Album Version)",
+      "artist": "Tygers Of Pan Tang",
+      "has_synced": false,
+      "path": "select/11_Love_Potion_No._9_(Album_Version)_Tygers_Of_Pan_Tang.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Potion",
+      "artist": "Bibio",
+      "has_synced": false,
+      "path": "select/12_Potion_Bibio.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Rose Potion",
+      "artist": "Johanna Warren",
+      "has_synced": true,
+      "path": "select/13_Rose_Potion_Johanna_Warren.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Potion",
+      "artist": "VOILÀ",
+      "has_synced": true,
+      "path": "select/14_Potion_VOILÀ.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Love Potion",
+      "artist": "Zack Merci feat. Arcana",
+      "has_synced": true,
+      "path": "select/15_Love_Potion_Zack_Merci_feat._Arcana.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Love Potion",
+      "artist": "Zack Merci",
+      "has_synced": true,
+      "path": "select/16_Love_Potion_Zack_Merci.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Potion",
+      "artist": "INI",
+      "has_synced": false,
+      "path": "select/pl_01_Potion_INI.txt"
+    }
+  ]
+}
